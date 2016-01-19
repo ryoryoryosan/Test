@@ -17,4 +17,10 @@ public class A : MonoBehaviour
 	{
 		Debug.Log("デバッグ");
 	}
+
+	void Save()
+	{
+		Debug.Log("セーブ");
+	}
+
 }
