@@ -24,4 +24,9 @@ public class A : MonoBehaviour
 		Debug.Log("セーブ");
 	}
 
+	void Load()
+	{
+		Debug.Log("ロード");
+	}
+
 }
