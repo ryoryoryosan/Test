@@ -24,9 +24,16 @@ public class A : MonoBehaviour
 		Debug.Log("セーブ");
 	}
 
+<<<<<<< HEAD
 	void Load()
 	{
 		Debug.Log("ロード");
 	}
 
+=======
+    void Hoge()
+    {
+        Debug.Log("hoge");
+    }
+>>>>>>> origin/feature/macTest1
 }
