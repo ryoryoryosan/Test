@@ -24,4 +24,8 @@ public class A : MonoBehaviour
 		Debug.Log("セーブ");
 	}
 
+    void Hoge()
+    {
+        Debug.Log("hoge");
+    }
 }
