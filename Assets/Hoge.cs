@@ -13,6 +13,6 @@ public class Hoge : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 	
-	//wwwwwwwwwwwwwwwwwwwwwwwwwww
+	
 	}
 }
