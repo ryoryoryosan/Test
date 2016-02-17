@@ -7,6 +7,7 @@ public class Hoge : MonoBehaviour {
 	void Start () {
 
 		//FugaFuga
+        //gugugu
 	
 	}
 	
